@@ -33,6 +33,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Evolution of Software Architecture Patterns | Ralf Westphal | [PDF with link to whiteboard](2026-02-25/Evolution_of_Software_Architectur_Patterns-Ralf_Westphal.pdf) |
 | Learn to develop at WARP speed! | Heath Kesler | [PDF](2026-02-25/Learn_to_Develop_at_WARP_Speed-Heath_Kesler.pdf) |
 | The cake is a lie... and so is your login's accessibility | Ramona Schwering | [PDF](2026-02-25/cake_is_a_lie-ramona_schwering.pdf),[GitHub](https://github.com/leichteckig/login-a11y) |
+| From Dev to Lead: Guiding Without Managing | [Erik Beaulieu](https://www.linkedin.com/in/erik-beaulieu/) | [PDF](2026-02-25/Dev-To-Lead_Guiding-Without-Managing_ErikBeaulieu.pdf) |
 
 ## February 26
 
@@ -55,6 +56,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Real-time streaming showdown | Sherif Behna | [PDF](2026-02-26/streaming_spark_flink-sherif_behna.pdf) |
 | AI Assemble! Build your own private Development Team | Heath Kesler | [PDF](2026-02-26/AI_Assemble_Build_your_own_private_Development_Team-Heath_Kesler.pdf) |
 | From the Crypt to the Code | Ramona Schwering | [PDF](2026-02-26/crypt_to_code-ramona_schwering.pdf),[GitHub](https://github.com/leichteckig/login-a11y) |
+| Redefining Code Review with AI | [Erik Beaulieu](https://www.linkedin.com/in/erik-beaulieu/) | [PDF](2026-02-26/Redefining-Code-Review-with-AI_ErikBeaulieu.pdf) |
 
 ## February 27
 
